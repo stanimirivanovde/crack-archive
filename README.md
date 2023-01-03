@@ -14,4 +14,4 @@ go run cmd/crack-archive.go -file ./test.rar
 
 This will attempt to crack the test archive.
 
-
+The project depends on `golift.io/xtractr` to open the archive with a password.
