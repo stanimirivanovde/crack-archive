@@ -1,6 +1,6 @@
 module crack-archive
 
-go 1.19
+go 1.24
 
 require (
 	github.com/cheggaaa/pb/v3 v3.1.0
@@ -20,7 +20,7 @@ require (
 	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/hashicorp/go-multierror v1.1.1 // indirect
 	github.com/kdomanski/iso9660 v0.3.3 // indirect
-	github.com/klauspost/compress v1.15.13 // indirect
+	github.com/klauspost/compress v1.18.7 // indirect
 	github.com/mattn/go-colorable v0.1.8 // indirect
 	github.com/mattn/go-isatty v0.0.12 // indirect
 	github.com/mattn/go-runewidth v0.0.12 // indirect
